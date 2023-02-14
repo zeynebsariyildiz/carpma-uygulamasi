@@ -20,6 +20,7 @@ namespace carpma_uygulamasi
             }
             Console.WriteLine();
             Console.ReadKey();
+            //gayet güzel olmuş
         }
     }
 }
